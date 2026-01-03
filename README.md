@@ -1,5 +1,5 @@
 # 👨‍💻 Minseok Choi (최민석)
-> **Practical Developer** who values user experience and robust system design.
+> **Creative Problem Solver** who loves turning imaginative ideas into reality. 🚀
 
 [![Mail](https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:minsuckchoe@naver.com)
 
@@ -15,7 +15,7 @@
 
 ### 🏆 Honors & Awards
 * **1st Runner-up (최우수상)** | Capstone Design Exhibition 🏅
-  * *Inha University, Dept. of Computer Science (2025)*
+  * *Inha University, Dept. of Computer Science and Engineering (2025)*
   * Project: LumiAR
   * Developed a real-time AR visualization system that reconstructs 3D objects from sparse 2D images using Gaussian Splatting, and enables natural lighting synchronization and spatial re-placement in mobile AR environments.
 
@@ -25,7 +25,7 @@
 * **Android App Development & Publishing** 📱
   * Launched personal apps on **Google Play Store**.
   * Actively managing services by reflecting user feedback and monitoring reviews.
-  * [Check my Apps on Play Store](https://play.google.com/store/apps/dev?id=75057157778971011)
+  * [Check my Apps on Play Store](https://play.google.com/store/apps/dev?id=7505715777897101155)
 
 ---
 
@@ -37,9 +37,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingaca&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingaca&layout=compact&theme=transparent)
-
----
-*"Building bridge between technology and daily life."*
+### Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cms1003)](https://solved.ac/cms1003/)

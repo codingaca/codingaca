@@ -1,4 +1,4 @@
-# 👨‍💻 Minseok Choi (최민석)
+# 👨‍💻 Minseok Choi
 > **Creative Problem Solver** who loves turning imaginative ideas into reality. 🚀
 
 [![Mail](https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:minsuckchoe@naver.com)
@@ -14,7 +14,7 @@
 ---
 
 ### 🏆 Honors & Awards
-* **1st Runner-up (최우수상)** | Capstone Design Exhibition 🏅
+* **1st Runner-up** | Capstone Design Exhibition 🏅
   * *Inha University, Dept. of Computer Science and Engineering (2025)*
   * Project: LumiAR
   * Developed a real-time AR visualization system that reconstructs 3D objects from sparse 2D images using Gaussian Splatting, and enables natural lighting synchronization and spatial re-placement in mobile AR environments.
